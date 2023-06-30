@@ -1,5 +1,3 @@
-import java.util.Objects;
-
 public class DataBeanWorkTime implements DataBean{ //Реализует DataBean для подтаблицы под коллекцию JasperReports
     private String monday; //Рабочие часы понедельник
     private String tuesday; //Рабочие часы вторник
